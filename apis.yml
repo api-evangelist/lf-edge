@@ -23,10 +23,10 @@ apis:
       Programmatic access to LF Edge project resources, APIs, and edge computing framework tools.
     humanURL: https://lfedge.org/projects/
     tags:
-  - Edge Computing
-  - IoT
-  - Open Source
-  - Linux Foundation
+      - Edge Computing
+      - IoT
+      - Open Source
+      - Linux Foundation
     properties:
       - type: Documentation
         url: https://lfedge.org/projects/
