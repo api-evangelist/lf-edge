@@ -13,7 +13,7 @@ LF Edge is an umbrella organization under the Linux Foundation establishing an o
 
 ## Timestamps
 - **Created:** 2026-03-16
-- **Modified:** 2026-03-16
+- **Modified:** 2026-04-28
 
 ## APIs
 
@@ -31,6 +31,7 @@ Programmatic access to LF Edge project resources, APIs, and edge computing frame
 ## Common Properties
 - [Documentation](https://lfedge.org/projects/)
 - [GitHub Repository](https://github.com/lf-edge)
+- [Projects](https://lfedge.org/projects/)
 
 ## Maintainers
 **FN:** Kin Lane
