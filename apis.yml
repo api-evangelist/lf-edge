@@ -31,6 +31,8 @@ apis:
       - type: Documentation
         url: https://lfedge.org/projects/
 common:
+  - type: DomainSecurity
+    url: security/lf-edge-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/lf-edge
   - type: Documentation
@@ -45,6 +47,8 @@ common:
     name: LF Edge Projects
     description: Portfolio of edge computing projects including Akraino, EdgeX Foundry, EVE, Fledge, EdgeLake, FIDO Device Onboard, Open Horizon, State of the Edge, eKuiper, InfiniEdge AI, InstantX, NanoMQ, Nexoedge, and Ocre.
     url: https://lfedge.org/projects/
+  - url: https://lfedge.org/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
