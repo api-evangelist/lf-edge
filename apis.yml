@@ -3,9 +3,21 @@ name: LF Edge
 description: >-
   LF Edge is an umbrella organization under the Linux Foundation establishing an open, interoperable framework for edge computing independent of hardware, silicon, cloud, or operating system. It hosts projects like Akraino, EdgeX Foundry, and Open Horizon.
 type: Index
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
 position: Consumer
 access: 3rd-Party
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lf-edge.png
 tags:
   - Edge Computing
   - IoT
