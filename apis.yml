@@ -22,6 +22,11 @@ tags:
   - Edge Computing
   - IoT
   - Linux Foundation
+  - Open-Source
+tags_raw:
+  - Edge Computing
+  - IoT
+  - Linux Foundation
   - Open Source
 created: '2026-03-16'
 modified: '2026-04-28'
@@ -35,6 +40,11 @@ apis:
       Programmatic access to LF Edge project resources, APIs, and edge computing framework tools.
     humanURL: https://lfedge.org/projects/
     tags:
+      - Edge Computing
+      - IoT
+      - Linux Foundation
+      - Open-Source
+    tags_raw:
       - Edge Computing
       - IoT
       - Linux Foundation
