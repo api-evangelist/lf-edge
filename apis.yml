@@ -33,12 +33,13 @@ tags:
   - Edge Computing
   - IoT
   - Linux Foundation
-  - Open-Source
+  - Open Source
 tags_raw:
   - Edge Computing
   - IoT
   - Linux Foundation
   - Open Source
+  - Open-Source
 created: '2026-03-16'
 modified: '2026-04-28'
 url: >-
@@ -54,12 +55,13 @@ apis:
       - Edge Computing
       - IoT
       - Linux Foundation
-      - Open-Source
+      - Open Source
     tags_raw:
       - Edge Computing
       - IoT
       - Linux Foundation
       - Open Source
+      - Open-Source
     properties:
       - type: Documentation
         url: https://lfedge.org/projects/
